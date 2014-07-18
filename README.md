@@ -24,7 +24,7 @@ Now open up a terminal and go into packages folder you opened and run:
 `git clone https://github.com/Zetch/sublime-text-numix "Numix"`
 
 ### Manual Install
-* Download the [Package](https://www.test.com)
+* Download the [Package](https://github.com/Zetch/sublime-text-numix/archive/master.zip)
 * Unzip the files and rename the folder to `Numix`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
