@@ -14,6 +14,9 @@ A Numix theme for Sublime Text 2/3
 
 ## Installation
 
+### Package Control
+If you are using ```Package Control``` you just have to search it and install it. It's listed as ```Numix Theme```.
+
 ### Git Install
 You can install the theme and keep it updated by cloning the repo into your `Packages` directory.
 
