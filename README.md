@@ -30,10 +30,11 @@ Now open up a terminal and go into packages folder you opened and run:
 * Copy the folder into your Sublime Text `Packages` directory.
 
 ### Activate
-Click on `Preferences -> Settings - User` and add the next line
+Click on `Preferences -> Settings - User` and add the next line:
 ```
 "theme": "Numix.sublime-theme"
 ```
+Restart Sublime Text after this.
 
 ## Customization
 
@@ -49,3 +50,15 @@ You can change the size of the tabs for better visibility using the following se
 * Medium: `"tabs_medium": true`
 * Large: `"tabs_large": true`
 
+If no one is used it defaults to medium.
+
+### Overlay scrollbars
+The theme is compatible with overlay scrollbars. To activate them add the next line to your preferences file:
+```
+"overlay_scroll_bars": "enabled"
+```
+
+## Work in progress
+This is a early release o work that needs to be improving. The next goal is to make a Numix Dark version for those who prefer dark IDEs.
+
+This theme is a fork of [Brogrammer theme](https://github.com/kenwheeler/brogrammer-theme).
