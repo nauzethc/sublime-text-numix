@@ -46,7 +46,7 @@
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 1,
         // Active
-        "layer1.texture": "Numix/assets/tab-bar-active@2x.png",
+        "layer1.texture": "Numix Theme/assets/tab-bar-active@2x.png",
         "layer1.opacity": 0,
         // Hover
         "layer2.tint": [242,242,242],
@@ -92,7 +92,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Numix/assets/close.png",
+        "layer0.texture": "Numix Theme/assets/close.png",
         "layer0.tint": [150, 150, 150],
         "layer0.opacity": 1
     },
@@ -105,7 +105,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Numix/assets/circle.png",
+        "layer0.texture": "Numix Theme/assets/circle.png",
         "layer0.tint": [214,73,55],
         "layer0.opacity": 1
     },
@@ -119,7 +119,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Numix/assets/close.png",
+        "layer0.texture": "Numix Theme/assets/close.png",
         "layer0.opacity": 1,
         "layer0.tint": [214,73,55]
     },
@@ -169,7 +169,7 @@
     {
         "class": "show_tabs_dropdown_button",
         "content_margin": 12,
-        "layer0.texture": "Numix/assets/tab-scroll-dropdown@2x.png",
+        "layer0.texture": "Numix Theme/assets/tab-scroll-dropdown@2x.png",
         "layer0.tint": [85,85,85],
         "layer0.opacity": 1.0
     },
@@ -182,7 +182,7 @@
     {
         "class": "scroll_tabs_left_button",
         "content_margin": 12,
-        "layer0.texture": "Numix/assets/tab-scroll-left@2x.png",
+        "layer0.texture": "Numix Theme/assets/tab-scroll-left@2x.png",
         "layer0.tint": [85,85,85],
         "layer0.opacity": 1.0
     },
@@ -195,7 +195,7 @@
     {
         "class": "scroll_tabs_right_button",
         "content_margin": 12,
-        "layer0.texture": "Numix/assets/tab-scroll-right@2x.png",
+        "layer0.texture": "Numix Theme/assets/tab-scroll-right@2x.png",
         "layer0.tint": [85,85,85],
         "layer0.opacity": 1.0
     },
@@ -211,7 +211,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Numix/assets/fold-closed.png",
+        "layer0.texture": "Numix Theme/assets/fold-closed.png",
         "layer0.opacity": 1,
         "layer0.tint": [153,153,153],
         "layer0.inner_margin": 0,
@@ -220,7 +220,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Numix/assets/fold-open.png"
+        "layer0.texture": "Numix Theme/assets/fold-open.png"
     },
     {
         "class": "fold_button_control",
@@ -542,7 +542,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Numix/assets/close@2x.png",
+        "layer0.texture": "Numix Theme/assets/close@2x.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": 0,
         "layer0.tint": [150,150,150],
@@ -564,7 +564,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Numix/assets/close@2x.png",
+        "layer0.texture": "Numix Theme/assets/close@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [214,73,55]
     },
@@ -572,21 +572,21 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Numix/assets/circle@2x.png",
+        "layer0.texture": "Numix Theme/assets/circle@2x.png",
         "layer0.tint": [242,242,242]
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Numix/assets/close@2x.png",
+        "layer0.texture": "Numix Theme/assets/close@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [85,85,85]
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Numix/assets/close@2x.png",
+        "layer0.texture": "Numix Theme/assets/close@2x.png",
         "layer0.opacity": 1
     },
 
@@ -598,7 +598,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": 8,
-        "layer0.texture": "Numix/assets/fold-closed.png",
+        "layer0.texture": "Numix Theme/assets/fold-closed.png",
         "layer0.opacity": 1,
         "layer0.tint": [153,153,153]
     },
@@ -616,7 +616,7 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Numix/assets/fold-open.png"
+        "layer0.texture": "Numix Theme/assets/fold-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -632,7 +632,7 @@
     {
         "class": "disclosure_button_control",
         "settings": ["numix_folder_icons"],
-        "layer1.texture": "Numix/assets/folder-closed.png",
+        "layer1.texture": "Numix Theme/assets/folder-closed.png",
         "layer1.opacity": 1,
         "layer0.opacity": 0,
         "content_margin": [9,8,9,8]
@@ -642,7 +642,7 @@
         "class": "disclosure_button_control",
         "settings": ["numix_folder_icons"],
         "attributes": ["expanded"],
-        "layer1.texture": "Numix/assets/folder-open.png",
+        "layer1.texture": "Numix Theme/assets/folder-open.png",
         "layer1.opacity": 1,
         "layer0.opacity": 0,
         "content_margin": [9,8,9,8]
@@ -834,7 +834,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Numix/assets/regex@2x.png",
+        "layer0.texture": "Numix Theme/assets/regex@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -857,7 +857,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Numix/assets/casesens@2x.png",
+        "layer0.texture": "Numix Theme/assets/casesens@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -880,7 +880,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Numix/assets/wholeword@2x.png",
+        "layer0.texture": "Numix Theme/assets/wholeword@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -908,7 +908,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Numix/assets/context@2x.png",
+        "layer0.texture": "Numix Theme/assets/context@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -931,7 +931,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Numix/assets/buffer@2x.png",
+        "layer0.texture": "Numix Theme/assets/buffer@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -958,7 +958,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Numix/assets/reverse@2x.png",
+        "layer0.texture": "Numix Theme/assets/reverse@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -981,7 +981,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Numix/assets/wrap@2x.png",
+        "layer0.texture": "Numix Theme/assets/wrap@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1004,7 +1004,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Numix/assets/selection@2x.png",
+        "layer0.texture": "Numix Theme/assets/selection@2x.png",
         "layer0.tint": [79,91,103],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1032,7 +1032,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Numix/assets/casesens@2x.png",
+        "layer0.texture": "Numix Theme/assets/casesens@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1060,7 +1060,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Numix/assets/highlight@2x.png",
+        "layer0.texture": "Numix Theme/assets/highlight@2x.png",
         "layer0.tint": [85, 85, 85],
         "layer0.opacity": 1,
         "content_margin": 8
