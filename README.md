@@ -21,7 +21,7 @@ To get to your packages directory, go into SublimeText and click on `Preferences
 
 Now open up a terminal and go into packages folder you opened and run:
 
-`git clone https://github.com/Zetch/sublime-text-numix "Numix"`
+`git clone https://github.com/Zetch/sublime-text-numix "Numix Theme"`
 
 ### Manual Install
 * Download the [Package](https://github.com/Zetch/sublime-text-numix/archive/master.zip)
