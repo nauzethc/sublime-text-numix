@@ -58,7 +58,11 @@ The theme is compatible with overlay scrollbars. To activate them add the next l
 "overlay_scroll_bars": "enabled"
 ```
 
+### Color scheme
+Color schemes used on the screenshots are part of [Soda Theme](https://github.com/buymeasoda/soda-theme/) project. You can download them on this [link](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip).
+
 ## Work in progress
 This is a early release o work that needs to be improving. The next goal is to make a Numix Dark version for those who prefer dark IDEs.
 
+## Thanks
 This theme is a fork of [Brogrammer theme](https://github.com/kenwheeler/brogrammer-theme).
