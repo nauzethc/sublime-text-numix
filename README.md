@@ -39,7 +39,10 @@ Click on `Preferences -> Settings - User` and add the next line:
 ```
 "theme": "Numix.sublime-theme"
 ```
-or the next one for Dark version.
+or the next one for Dark version
+```
+"theme": "Numix Dark.sublime-theme"
+```
 
 Restart Sublime Text after this.
 
