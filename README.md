@@ -10,6 +10,8 @@ A Numix theme for Sublime Text 2/3
 ![Screenshot](https://dl.dropboxusercontent.com/u/1763308/Numix/numix_light_monokai.png)
 ### Numix Light + Espresso
 ![Screenshot](https://dl.dropboxusercontent.com/u/1763308/Numix/numix_light_espresso.png)
+### Numix Dark + Monokai
+![Screenshot](https://dl.dropboxusercontent.com/u/1763308/Numix/numix_dark_monokai.png)
 
 
 ## Installation
@@ -37,6 +39,8 @@ Click on `Preferences -> Settings - User` and add the next line:
 ```
 "theme": "Numix.sublime-theme"
 ```
+or the next one for Dark version.
+
 Restart Sublime Text after this.
 
 ## Customization
