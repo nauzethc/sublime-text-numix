@@ -160,6 +160,11 @@
         "settings": ["numix_font_face"],
         "font.face": "Ubuntu"
     },
+    {
+        "class": "tab_label",
+        "attributes": ["transient"],
+        "font.italic": true
+    },
 
 //
 // TAB SCROLLING
@@ -533,6 +538,12 @@
         "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
         "color": [255,255,255]
+    },
+    // Sidebar label transient
+    {
+        "class": "sidebar_label",
+        "attributes": ["transient"],
+        "font.italic": true
     },
 
 //
