@@ -39,7 +39,7 @@ Click on `Preferences -> Settings - User` and add the next line:
 ```
 "theme": "Numix.sublime-theme"
 ```
-or one of the next ones for a Dark version
+or one of the next ones for a Dark version (thanks to [@steffex](https://github.com/steffex)).
 ```
 "theme": "Numix Dark.sublime-theme"
 "theme": "Numix Dark Green.sublime-theme"
@@ -57,8 +57,8 @@ To view sidebar icons as folders add the next line to your preferences file on `
 "numix_folder_icons": true
 ```
 
-### Seti UI Icons (thanks @dobromir-hristov)
-You can use this theme with Seti UI Icon package. 
+### Seti UI Icons 
+You can use this theme with Seti UI Icon package (thanks to [@dobromir-hristov](https://github.com/dobromir-hristov).
 * Download package zip from its [repository](https://github.com/mrmartineau/SetiUI-Icons-Sublime)
 * Extract it to your `Packages\User` directory and rename the folder to `Numix Theme`
 * Create the next empty files inside of renamed directory
