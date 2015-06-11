@@ -58,7 +58,7 @@ To view sidebar icons as folders add the next line to your preferences file on `
 ```
 
 ### Seti UI Icons 
-You can use this theme with Seti UI Icon package (thanks to [@dobromir-hristov](https://github.com/dobromir-hristov).
+You can use this theme with Seti UI Icon package (thanks to [@dobromir-hristov](https://github.com/dobromir-hristov)).
 * Download package zip from its [repository](https://github.com/mrmartineau/SetiUI-Icons-Sublime)
 * Extract it to your `Packages\User` directory and rename the folder to `Numix Theme`
 * Create the next empty files inside of renamed directory
