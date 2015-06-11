@@ -8,8 +8,8 @@
         "layer0.tint": [51,51,51],
         "layer0.opacity": 1,
         "content_margin": [0,1,5,1],
-        "tab_overlap": 0,
-        "tab_width": 40,
+        "tab_overlap": 1,
+        "tab_width": 190,
         "tab_min_width": 50,
         "tab_height": 40,
         "mouse_wheel_switch": false
