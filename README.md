@@ -26,10 +26,10 @@ To get to your packages directory, go into SublimeText and click on `Preferences
 
 Now open up a terminal and go into packages folder you opened and run:
 
-`git clone https://github.com/Zetch/sublime-text-numix "Numix Theme"`
+`git clone https://github.com/nauzethc/sublime-text-numix "Numix Theme"`
 
 ### Manual Install
-* Download the [Package](https://github.com/Zetch/sublime-text-numix/archive/master.zip)
+* Download the [Package](https://github.com/nauzethc/sublime-text-numix/archive/master.zip)
 * Unzip the files and rename the folder to `Numix Theme`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
