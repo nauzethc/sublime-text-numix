@@ -76,6 +76,14 @@ You can change the size of the tabs for better visibility using the following se
 
 If no one is used it defaults to medium.
 
+### Side Bar size
+You can change the size of the sidebar for better visibility using the following settings in your preferences file:
+* Xsmall: `"sidebar_tree_xsmall": true`
+* Small: `"sidebar_tree_small": true`
+* Medium: `"sidebar_tree_medium": true`
+* Large: `"sidebar_tree_large": true`
+* Xlarge: `"sidebar_tree_xlargee": true`
+
 ### Overlay scrollbars
 The theme is compatible with overlay scrollbars. To activate them add the next line to your preferences file:
 ```
