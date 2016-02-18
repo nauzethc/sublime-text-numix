@@ -776,11 +776,6 @@
     },
     {
         "class": "quick_panel_row",
-        "attributes": ["hover"],
-        "layer0.tint": [214,73,55]
-    },
-    {
-        "class": "quick_panel_row",
         "attributes": ["selected"],
         "layer0.tint": [214,73,55]
     },
