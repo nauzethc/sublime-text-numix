@@ -82,7 +82,7 @@ You can change the size of the sidebar for better visibility using the following
 * Small: `"sidebar_tree_small": true`
 * Medium: `"sidebar_tree_medium": true`
 * Large: `"sidebar_tree_large": true`
-* Xlarge: `"sidebar_tree_xlargee": true`
+* Xlarge: `"sidebar_tree_xlarge": true`
 
 ### Overlay scrollbars
 The theme is compatible with overlay scrollbars. To activate them add the next line to your preferences file:
